@@ -63,4 +63,3 @@ async def delete_message_from_user(
 
     finally:
         return {"response": "ok"}
-        return {"response": "ok"}
